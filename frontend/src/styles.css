@@ -1,0 +1,11 @@
+body {
+  background-color: #f7f7fb;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+.card-header {
+  font-weight: 600;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "tele3118-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "serve": "npx serve -s build -l 3000"
+  },
+  "proxy": "http://localhost:8000"
+}
